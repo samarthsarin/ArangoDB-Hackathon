@@ -61,6 +61,11 @@ Using graph analytics, we:
 
 By leveraging GDELT’s open and scalable dataset, we focused on innovative analysis and visualization instead of spending time collecting data.
 
+## 🛠️ Technologies Used
+### GDELT Dataset – Real-time global event tracking
+### LangSmith – For Tracibility of the LLM
+### Mem0 - Adding memory component of the converstation.
+
 ## 📢 **Conclusion**
 This project showcases the power of open-source datasets, graph analytics, and AI-driven insights to transform decision-making in high-stakes environments like finance and geopolitics.
 
